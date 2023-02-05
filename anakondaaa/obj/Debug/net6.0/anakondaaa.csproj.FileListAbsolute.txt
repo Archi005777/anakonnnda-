@@ -1,0 +1,15 @@
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/bin/Debug/net6.0/anakondaaa
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/bin/Debug/net6.0/anakondaaa.deps.json
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/bin/Debug/net6.0/anakondaaa.runtimeconfig.json
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/bin/Debug/net6.0/anakondaaa.dll
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/bin/Debug/net6.0/anakondaaa.pdb
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.csproj.AssemblyReference.cache
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.AssemblyInfoInputs.cache
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.AssemblyInfo.cs
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.csproj.CoreCompileInputs.cache
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.dll
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/refint/anakondaaa.dll
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.pdb
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/anakondaaa.genruntimeconfig.cache
+/Users/arturarutunan/Projects/anakondaaa/anakondaaa/obj/Debug/net6.0/ref/anakondaaa.dll
